@@ -17,8 +17,7 @@
 
 ---
 
-##  ⏬ DOWNLOAD LINKS <p><img src="https://img.shields.io/badge/Download-Links-blue?style=for-the-badge"></p>
-<br>
+##  ⏬ DOWNLOAD LINKS <p><img 
 <br>
 <p>
   <a href="https://github.com/KaladinDMP/Rookie-3.0.1-Setup/raw/main/AndroidSideloader.exe">
