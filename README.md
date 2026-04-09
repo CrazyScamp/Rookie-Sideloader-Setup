@@ -17,11 +17,27 @@
 
 ---
 
-## ⏬ DOWNLOAD ROOKIE + UPDATED.json
+##  ⏬ DOWNLOAD LINKS <p><img src="https://img.shields.io/badge/Download-Links-blue?style=for-the-badge"></p>
+<br>
+<br>
+<p>
+  <a href="https://github.com/KaladinDMP/Rookie-3.0.1-Setup/raw/main/AndroidSideloader.exe">
+    <img src="https://img.shields.io/badge/Download-Rookies-blue?style=for-the-badge">
+  </a>
+</p>
 
-https://github.com/VRPirates/rookie/releases/download/v3.0.1/AndroidSideloader.exe
+**Rookies Notes:** You may have to disable security for your browser to download, if you arent sure how, google ```"how to shut off browser security for Chrome/Firefox/Opera/Whatever you use."```
+Also make sure you download directly to your excluded folder for best results.
+<br>
+<br>
+<p>
+  <a href="https://github.com/CrazyScamp/Rookie-3.0.1-Setup/blob/main/vrp-public.json">
+    <img src="https://img.shields.io/badge/Download-JSON-blue?style=for-the-badge">
+  </a>
+</p>
 
-https://github.com/CrazyScamp/Rookie-3.0.1-Setup/blob/main/vrp-public.json
+**JSON Note:** This opens on another page. Choose the 'download raw' button.<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/503a4afb-9fc6-490e-af32-aca985443221" />
+
 
 ---
 
