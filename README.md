@@ -23,10 +23,7 @@
 href="https://github.com/KaladinDMP/Rookie-3.0.1-Setup/raw/main/AndroidSideloader.exe">
     <img src="https://img.shields.io/badge/Download-Rookie-blue?style=for-the-badge">
   </a>
-</p>
- src="https://img.shields.io/badge/Download-Rookies-blue?style=for-the-badge">
-  </a>
-</p>
+  </p>
 
 **Rookies Notes:** You may have to disable security for your browser to download, if you arent sure how, google ```"how to shut off browser security for Chrome/Firefox/Opera/Whatever you use."```
 Also make sure you download directly to your excluded folder for best results.
