@@ -35,7 +35,8 @@ Also make sure you download directly to your excluded folder for best results.
   </a>
 </p>
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/503a4afb-9fc6-490e-af32-aca985443221" />
+** This .JSON File is updated with a new Database for Games **
+<span style="color:red;">BIG Thanks to "the_vrSrc" for the Database > </span>
 
 
 ---
