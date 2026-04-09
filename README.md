@@ -16,9 +16,9 @@
 11. Select the `RSL` folder you created
 12. Click **Select Folder**
 
-    
+---
 
-👇 DOWNNLOAD Rookie 3.0.1 👇
+## ⏬️ DOWNLOAD ROOKIE 3.0.1
 
 https://www.mediafire.com/file/u982l5dqq4ozx93/Rookie_3.0.1.zip/file
 
