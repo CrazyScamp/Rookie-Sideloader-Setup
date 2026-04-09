@@ -26,6 +26,7 @@ https://github.com/CrazyScamp/Rookie-3.0.1-Setup/blob/main/vrp-public.json
 1. Move the downloaded exe into
 
 ```C:\RSL\Rookie```
+
 2. Move the download .json into
 
 ```C:\RSL\Rookie```
