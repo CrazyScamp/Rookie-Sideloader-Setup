@@ -25,7 +25,7 @@ href="https://github.com/KaladinDMP/Rookie-3.0.1-Setup/raw/main/AndroidSideloade
   </a>
   </p>
 
-** NOTES **
+**NOTES**
 <br>
 You may have to disable security for your browser to download (not always), if you arent sure how, google ```"how to shut off browser security for Chrome/Firefox/Opera/Whatever you use."```
 <br>
@@ -40,7 +40,7 @@ If this is not possible "Right Click" Download Button and "Save Link As" This wi
   </a>
 </p>
 
-** This .JSON File is updated with a new Database for Games **
+**This .JSON File is updated with a new Database for Games**
 
 BIG Thanks to the_vrSrc for the Database
 
