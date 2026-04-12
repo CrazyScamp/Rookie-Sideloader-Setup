@@ -1,4 +1,4 @@
-# Rookie Sideloader 3.0.1 Setup Guide
+# Rookie 3.0.1 Setup Guide
 
 ## 🛡 REAL TIME PROTECTION (Windows Defender Exclusion)
 
